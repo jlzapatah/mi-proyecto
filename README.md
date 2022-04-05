@@ -50,4 +50,21 @@ imagenes
 ![Logo Github](https://pinkcarpetmagazine.files.wordpress.com/2009/04/eslabon-perdido-dr-cucaracha-y-bo.jpg?w=800)
 
 
+# Code Snippets highlight.js
+´´´
+namespace MyApplication
+{
+    [Obsolete("...")]
+    class Program : IInterface
+    {
+        public static List<int> JustDoIt(int count)
+        {
+            Span<int> numbers = stackalloc int[length];
+            Console.WriteLine($"Hello {Name}!");
+            return new List<int>(new int[] { 1, 2, 3 })
+        }
+    }
+}
+´´´
+
 
