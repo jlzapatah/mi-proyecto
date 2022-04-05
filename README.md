@@ -95,3 +95,7 @@ export  $initHighlight;
 ```
 
 
+
+# Tablas
+|Nombres|Apellidos|Documento|
+|-------|-------|-------|
