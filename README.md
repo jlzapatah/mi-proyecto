@@ -99,3 +99,7 @@ export  $initHighlight;
 # Tablas
 |Nombres|Apellidos|Documento|
 |-------|-------|-------|
+|jose|poras|123|
+|luis|doma|456|
+|pedro|tomas|789|
+
