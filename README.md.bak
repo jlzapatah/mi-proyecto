@@ -19,11 +19,11 @@ Underline 2
 
 enfacis
 
--Letra italica forma 1 *jorge zapata * .
--Letra italica forma 2 _jorge zapata _
--Letra italica forma 3 strong  **jorge zapata**
--Letra italica forma 3 strong  __jorge zapata __
--Letra italica forma 3 strong  ~~jorge zapata tachado~~
+- Letra italica forma 1 *jorge zapata * .
+- Letra italica forma 2 _jorge zapata _
+- Letra italica forma 3 strong  **jorge zapata**
+- Letra italica forma 3 strong  __jorge zapata __
+- Letra italica forma 3 strong  ~~jorge zapata tachado~~
 
 #Listas
 1. Lista ordena. 
@@ -35,6 +35,16 @@ enfacis
 - Lista desordenada item 2
 - Lista desordenada item 3
 - Lista desordenada item 4
+
+#links
+
+<a href="http:\\jzapata.com">Estos es un link html</a>
+
+en markdown
+[Esto es un link en markdown]("http:\\jzapata.com")
+- [Esto es un link en markdown]("http:\\jzapata.com")
+- [Esto es un link al index]("index.html")
+
 
 
 

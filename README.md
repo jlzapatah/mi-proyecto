@@ -45,6 +45,9 @@ en markdown
 - [Esto es un link en markdown]("http:\\jzapata.com")
 - [Esto es un link al index]("index.html")
 
+imagenes
+
+![Logo Github](https://pinkcarpetmagazine.files.wordpress.com/2009/04/eslabon-perdido-dr-cucaracha-y-bo.jpg?w=800)
 
 
 
