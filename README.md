@@ -3,7 +3,7 @@ Proyecto usando git
 proyecto de prueba para enterder el uso de git
 
 Cabeceras
-
+Version de cursor v1.2.2
 # Cabeceras H1
 ## Cabeceras H2
 ### Cabecera H3
