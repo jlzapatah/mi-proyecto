@@ -103,3 +103,10 @@ export  $initHighlight;
 |luis|doma|456|
 |pedro|tomas|789|
 
+# Citas
+Esto es un texto referiente a u cita que pondremos mas abajo
+> Estos es una cita utilizando el simbolo"> mayor al inicio"
+
+Estos es otro texto que no se relaciona con la cita:
+> Esto es otra cita
+
