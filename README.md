@@ -19,6 +19,8 @@ Underline 2
 
 enfacis
 
-Letra italica forma 1 *jorge*
-Letra italica forma 2 _jorge_
-Letra italica forma 3 strong  **jorge**
+-Letra italica forma 1 *jorge*
+-Letra italica forma 2 _jorge_
+-Letra italica forma 3 strong  **jorge**
+-Letra italica forma 3 strong  __jorge__
+-Letra italica forma 3 strong  ~~jorge tachado~~
