@@ -110,3 +110,12 @@ Esto es un texto referiente a u cita que pondremos mas abajo
 Estos es otro texto que no se relaciona con la cita:
 > Esto es otra cita
 
+# Lineas divisoras
+Este es un texto que sera dividido por ---
+---
+esto es el texto divido ***
+***
+esto es el texto divido por guiones bajos ___
+___
+
+
