@@ -50,8 +50,9 @@ imagenes
 ![Logo Github](https://pinkcarpetmagazine.files.wordpress.com/2009/04/eslabon-perdido-dr-cucaracha-y-bo.jpg?w=800)
 
 
-# Code Snippets highlight.js
-´´´
+# Code Snippets highlight.js ALT + 96
+
+```
 namespace MyApplication
 {
     [Obsolete("...")]
@@ -65,6 +66,8 @@ namespace MyApplication
         }
     }
 }
-´´´
+```
+
+
 
 
