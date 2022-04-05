@@ -19,8 +19,22 @@ Underline 2
 
 enfacis
 
--Letra italica forma 1 *jorge*
--Letra italica forma 2 _jorge_
--Letra italica forma 3 strong  **jorge**
--Letra italica forma 3 strong  __jorge__
--Letra italica forma 3 strong  ~~jorge tachado~~
+-Letra italica forma 1 *jorge zapata * .
+-Letra italica forma 2 _jorge zapata _
+-Letra italica forma 3 strong  **jorge zapata**
+-Letra italica forma 3 strong  __jorge zapata __
+-Letra italica forma 3 strong  ~~jorge zapata tachado~~
+
+#Listas
+1. Lista ordena. 
+2. Lista ordena.
+3. Lista ordena.
+4. Lista ordena.
+
+- Lista desordenada item 1
+- Lista desordenada item 2
+- Lista desordenada item 3
+- Lista desordenada item 4
+
+
+
