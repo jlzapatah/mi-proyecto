@@ -15,3 +15,10 @@ Underline 1
 -------------
 Underline 2
 -------------
+
+
+enfacis
+
+Letra italica forma 1 *jorge*
+Letra italica forma 2 _jorge_
+Letra italica forma 3 strong  **jorge**
